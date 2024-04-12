@@ -12,9 +12,10 @@ The screenshots of the website designed is attached below.
 
 ![Dashboard Webpage Mobile](https://github.com/ashwingis/week14/assets/146376104/03d9d51f-990d-48a2-9076-ee958d3afb84)
 
-Further, with the lighthouse I assessed the webpage score in terms of performance, Accessibilty, Best practices and SEO where it scored 100, 100, 96 and 90 respectively.
+Further, with the lighthouse I assessed the webpage score in terms of performance, Accessibilty, Best practices and SEO where it scored 100, 92, 96 and 90 respectively.
 
-![Dashboard Webpage Score](https://github.com/ashwingis/week14/assets/146376104/7bf95125-150e-41c2-97e7-5aea7720cbbe)
+![Dashboard Webpage Score](https://github.com/ashwingis/week14/assets/146376104/514eabb1-7c6f-4408-a7e8-496d20418013)
+
 
 Insights: 
 
