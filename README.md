@@ -17,6 +17,9 @@ Further, with the lighthouse I assessed the webpage score in terms of performanc
 ![Dashboard Webpage Score](https://github.com/ashwingis/week14/assets/146376104/514eabb1-7c6f-4408-a7e8-496d20418013)
 
 
+
+
+
 Insights: 
 
 The screenshots of the website designed is attached below.
